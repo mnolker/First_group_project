@@ -7,20 +7,23 @@ Team Members:
 >- Lisa Stroh
 >- Kathy Nguyen
 >- April Lagnevall
->- Haifa Najdaw
+>- Haifa Najdawi
 
-Project Description/Outline: Does Weather have an impact on a countrie's happiness index? 
+Project Description/Outline: Does weather have an impact on a crime? 
 
 Research questions to Answer
 >- Is there a coorelation between crime & weather?  
 >>- compare crime rates to weather
 
 Datasets to Be Used:
->-https://rapidapi.com/jgentes/api/crime-data 
->>- Need API... check & analyze data to pick what to compare to weather
->- Alternate source: https://www.kaggle.com/mathchi/violent-crime-rates-by-us-state
+>- Violent Crime: https://crime-data-explorer.fr.cloud.gov/api
 >- weather API
 >>- Filter for US State capitol temp - avg/min/max
 >>- Find reference for list of state capitals
 
 Rough breakdown of Tasks:
+>- Melanie Nolker
+>- Lisa Stroh
+>- Kathy Nguyen
+>- April Lagnevall
+>- Haifa Najdawi
