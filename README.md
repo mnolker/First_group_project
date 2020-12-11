@@ -2,28 +2,34 @@
 
 Project Title: Criminal Weather
 
-Team Members:
->- Melanie Nolker
->- Lisa Stroh
->- Kathy Nguyen
->- April Lagnevall
->- Haifa Najdawi
+**Team Members:** *(git repository user name)*
+>- **Melanie Nolker** *(mnolker)*
+>- **Lisa Stroh** *(Lisb020)*
+>- **Kathy Nguyen** *(kcknguyen)*
+>- **April Lagnevall** *(alagnevall)*
+>- **Haifa Najdawi** *(Haifa)*
 
-Project Description/Outline: Does weather have an impact on a crime? 
+Project Description/Outline: 
+>- Does weather have an impact on a crime? Find if there is a correlation in crime in the city of Denver compared to weather in winter vs summer months.
 
 Research questions to Answer
 >- Is there a coorelation between crime & weather?  
 >>- compare crime rates to weather
 
 Datasets to Be Used:
->- Violent Crime: https://crime-data-explorer.fr.cloud.gov/api
->- weather API
->>- Filter for US State capitol temp - avg/min/max
->>- Find reference for list of state capitals
+>- Violent Crime: https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime
+>>-Denver city .csv
+>- weather API = https://www.worldweatheronline.com/developer/api/docs/historical-weather-api.aspx#qparameter
+>>- Historical filter for Denver for 5 years
+>>- pull mulipule metrics (temp, cloudiness, others?)
 
 Rough breakdown of Tasks:
->- Melanie Nolker
->- Lisa Stroh
->- Kathy Nguyen
->- April Lagnevall
->- Haifa Najdawi
+>-  Project coordinator - Melanie Nolker
+
+>- Crime dataset anaysis:
+>>- Kathy Nguyen
+>>- April Lagnevall
+
+>- Weather dataset analysis:
+>>- Haifa Najdawi 
+>>- Lisa Stroh
