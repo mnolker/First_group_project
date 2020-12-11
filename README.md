@@ -2,7 +2,7 @@
 
 Project Title: Criminal Weather
 
-Team Members: (git repository user name)
+**Team Members:** *(git repository user name)*
 >- **Melanie Nolker** *(mnolker)*
 >- **Lisa Stroh** *(Lisb020)*
 >- **Kathy Nguyen** *(kcknguyen)*
