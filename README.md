@@ -2,12 +2,12 @@
 
 Project Title: Criminal Weather
 
-Team Members:
->- Melanie Nolker
->- Lisa Stroh
->- Kathy Nguyen
->- April Lagnevall
->- Haifa Najdawi
+Team Members: (git repository user name)
+>- **Melanie Nolker** *(mnolker)
+>- **Lisa Stroh** *(Lisb020)
+>- **Kathy Nguyen** (kcknguyen)
+>- **April Lagnevall** (alagnevall)
+>- **Haifa Najdawi** (Haifa)
 
 Project Description/Outline: 
 >- Does weather have an impact on a crime? Find if there is a correlation in crime in the city of Denver compared to weather in winter vs summer months.
