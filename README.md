@@ -10,7 +10,9 @@ Project Title: Criminal Weather
 >- **Haifa Najdawi** *(Haifa)*
 
 Project Description/Outline: 
->- Does weather have an impact on a crime? Find if there is a correlation in crime in the city of Denver compared to weather in winter vs summer months.
+>- Does weather have an impact on a crime? Find if there is a correlation in crime in the city of Denver compared to weather.
+>>- Hypothesis: Weather has an impact on non-traffic crime in Denver.
+>>- Null Hypothesis: Weather does not effect non-traffic crime in Denver.
 
 Research questions to Answer
 >- Is there a coorelation between crime & weather?  
