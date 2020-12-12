@@ -1,1 +1,1 @@
-weather_key="Enter key here"
+weather_key="Enter your API Key"
